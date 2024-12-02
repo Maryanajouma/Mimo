@@ -1,0 +1,134 @@
+
+.menu a:hover {
+	   display:block;              /* Transformation en block */
+       min-width: 150px;                /* Largeur minimale des liens */
+       margin: 0.6rem;                 /* Marges externes (1 valeurs = 4 directions) */
+       padding: 0.6rem 5;              /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
+       background-color: #30D34B;       /* Couleur d'arrière-plan */
+       color: bleu;                     /* Couleur du texte */
+      text-decoration: BLEU;           /* Suppression du soulignement */ 
+      border: 5px solid #7e3737 ;           /* Ajout d'une bordure */ 
+      border-radius: 5px;              /* Arrondis des bordures */
+      display:block;                  /* Transformation en block */
+      background-color: #GREEN;         /* Couleur d'arrière-plan */ 
+      background-color: #GREEN;
+      color: #30D34B;
+      border-color: #30D34B;
+      text-decoration: GREEN;        /* Suppression du soulignement */ 
+, background-color 3s transform  3s;
+ }
+ 
+ 
+      h5  
+ { 
+          color: red;
+ }
+ body
+ { 
+        background-color:#8ad7f9;
+ } 
+ 
+ body {  
+ color:black;
+ background-color:rgb(150, 158, 202);
+ margin:0;
+ } 
+ 
+ #carte 
+ { 
+       width:800px;
+       margin:0 auto;
+       background-color: #ebe1ec; 
+       text-align: center;
+       align-content: center; 
+       } 
+ 
+ 
+  #cartt 
+ {
+	 width:800px;
+	 margin:0 auto;
+	 background-color: #f5f1f8; 
+	 text-align: center;
+	 align-content: center;
+	 }
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+
+#MATHS 
+	 {
+		 display: block;
+		 width: 170px;
+		 height: 200px;
+		 background: lightblue; 
+		 }
+		 
+		 #Nani
+		 { 
+		 text-align: center;
+		 align-content: center;
+		 display: block;
+		 width: 200px;
+		 height: 50px;
+		 background: lightpink; 
+		 color: black;                   /* Couleur du texte */
+		 text-decoration: lightpink;      /* Suppression du soulignement */
+		 transition: a3 10s ;             /* Ajout des effets de transition */ 
+		 
+		 }
+		 
+		 ul li
+		 {
+		 list-style: none; 
+		 }
+			 
+			 
+		}
+	     border: 1px solid #fff; /* Ajout d'une bordure */
+			
+
+ body {
+	 font-family: "Trebuchet MS"; 
+ } 
+.menu {
+	display: flex;                /* Transformation en flexbox */ 
+	padding:0;                    /* Suppression des marges internes */
+	background-color: #2a274b;            /* Ajout de la couleur d'arrière-plan */
+	justify-content: space-around;          /* Alignements des liens dans le menu */ 
+}				 
+.menu li {
+	 list-style-type: none ;                /* Suppression des puces */ 
+					 				     
+} 
+.menu a { 
+	 display:block;                 /* Transformation en block */ 
+	 min-width: 120px;              /* Largeur minimale des liens */ 
+	
+	margin: 0.5rem;                /* Marges externes */
+	 padding: 0.4rem 0;             /* Marges internes */
+	text-align: center;             /* Centrage du texte */
+	 background-color: #396399;     /* Arrière-plan */
+	 color: #ebe1e1;                   /* Couleur du texte */
+	 text-decoration: none;         /* Suppression du soulignement */
+	 border: 1px solid #3a3358;        /* Ajout d'une bordure */
+	 border-radius: 4px;            /* Arrondis des bordures */
+	 
+	 transition: all 1s ;           /* Ajout des effets de transition */
+} 
+.menu a.actif { 
+    background-color: #6c3abd;
+	 color: #415c72;
+	 border-color: #6a439e; 
+ } 
+.menu a:hover, 
+.menu a:hover.actif{
+	 background-color: #2f2155; 
+	 color: #111213; 
+	 border-color: #441e81; 
+} 
+#cd98
